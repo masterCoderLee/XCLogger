@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7573B4E61DE41B1800726CE1"
+               BlueprintIdentifier = "7573B4D71DE41AC200726CE1"
                BuildableName = "ObjcExceptionBridging.framework"
-               BlueprintName = "ObjcExceptionBridging (watchOS)"
-               ReferencedContainer = "container:XCGLogger.xcodeproj">
+               BlueprintName = "ObjcExceptionBridging (macOS)"
+               ReferencedContainer = "container:XCLogger.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -43,10 +43,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7573B4E61DE41B1800726CE1"
+            BlueprintIdentifier = "7573B4D71DE41AC200726CE1"
             BuildableName = "ObjcExceptionBridging.framework"
-            BlueprintName = "ObjcExceptionBridging (watchOS)"
-            ReferencedContainer = "container:XCGLogger.xcodeproj">
+            BlueprintName = "ObjcExceptionBridging (macOS)"
+            ReferencedContainer = "container:XCLogger.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </LaunchAction>
@@ -59,10 +59,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7573B4E61DE41B1800726CE1"
+            BlueprintIdentifier = "7573B4D71DE41AC200726CE1"
             BuildableName = "ObjcExceptionBridging.framework"
-            BlueprintName = "ObjcExceptionBridging (watchOS)"
-            ReferencedContainer = "container:XCGLogger.xcodeproj">
+            BlueprintName = "ObjcExceptionBridging (macOS)"
+            ReferencedContainer = "container:XCLogger.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

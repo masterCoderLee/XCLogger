@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "55E3EE4419D76F280068C3A7"
-               BuildableName = "XCGLogger.framework"
-               BlueprintName = "XCGLogger (iOS)"
-               ReferencedContainer = "container:XCGLogger.xcodeproj">
+               BlueprintIdentifier = "5515A3DE1BA119FA0047BA31"
+               BuildableName = "XCLogger.framework"
+               BlueprintName = "XCLogger (tvOS)"
+               ReferencedContainer = "container:XCLogger.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "55E3EE4F19D76F280068C3A7"
-               BuildableName = "XCGLoggerTests (iOS).xctest"
-               BlueprintName = "XCGLoggerTests (iOS)"
-               ReferencedContainer = "container:XCGLogger.xcodeproj">
+               BlueprintIdentifier = "558EEB871D6BAC66006A9C7A"
+               BuildableName = "XCLoggerTests (tvOS).xctest"
+               BlueprintName = "XCLoggerTests (tvOS)"
+               ReferencedContainer = "container:XCLogger.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -44,10 +44,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "55E3EE4419D76F280068C3A7"
-            BuildableName = "XCGLogger.framework"
-            BlueprintName = "XCGLogger (iOS)"
-            ReferencedContainer = "container:XCGLogger.xcodeproj">
+            BlueprintIdentifier = "5515A3DE1BA119FA0047BA31"
+            BuildableName = "XCLogger.framework"
+            BlueprintName = "XCLogger (tvOS)"
+            ReferencedContainer = "container:XCLogger.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <Testables>
@@ -55,10 +55,10 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "55E3EE4F19D76F280068C3A7"
-               BuildableName = "XCGLoggerTests (iOS).xctest"
-               BlueprintName = "XCGLoggerTests (iOS)"
-               ReferencedContainer = "container:XCGLogger.xcodeproj">
+               BlueprintIdentifier = "558EEB871D6BAC66006A9C7A"
+               BuildableName = "XCLoggerTests (tvOS).xctest"
+               BlueprintName = "XCLoggerTests (tvOS)"
+               ReferencedContainer = "container:XCLogger.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -76,10 +76,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "55E3EE4419D76F280068C3A7"
-            BuildableName = "XCGLogger.framework"
-            BlueprintName = "XCGLogger (iOS)"
-            ReferencedContainer = "container:XCGLogger.xcodeproj">
+            BlueprintIdentifier = "5515A3DE1BA119FA0047BA31"
+            BuildableName = "XCLogger.framework"
+            BlueprintName = "XCLogger (tvOS)"
+            ReferencedContainer = "container:XCLogger.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </LaunchAction>
@@ -92,10 +92,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "55E3EE4419D76F280068C3A7"
-            BuildableName = "XCGLogger.framework"
-            BlueprintName = "XCGLogger (iOS)"
-            ReferencedContainer = "container:XCGLogger.xcodeproj">
+            BlueprintIdentifier = "5515A3DE1BA119FA0047BA31"
+            BuildableName = "XCLogger.framework"
+            BlueprintName = "XCLogger (tvOS)"
+            ReferencedContainer = "container:XCLogger.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

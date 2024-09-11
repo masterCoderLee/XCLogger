@@ -1,0 +1,12 @@
+//
+//  module.map.modulemap
+//  XCGLogger (iOS)
+//
+//  Created by Lee on 2024/9/11.
+//  Copyright © 2024 Cerebral Gardens. All rights reserved.
+//
+
+module ObjcExceptionBridging {
+    header "ObjcExceptionBridging.h"
+    export *
+}
