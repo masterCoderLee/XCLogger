@@ -13,7 +13,7 @@ Pod::Spec.new do |spec|
     spec.license = { :type => 'MIT', :file => 'LICENSE.txt' }
     spec.author = { 'xiaobing' => 'xiaobingli92@163.com' }
     spec.social_media_url = 'https://mastodon.social/@davewoodx'
-    spec.platforms = { :ios => '12.0', :watchos => '4.0', :tvos => '12.0', :osx => '10.13' }
+    spec.platform     = :ios, "12.0"
     spec.requires_arc = true
     spec.pod_target_xcconfig = { 'SWIFT_VERSION' => '5.0' }
     spec.swift_version = '5.0'
@@ -22,9 +22,6 @@ Pod::Spec.new do |spec|
     spec.source = { :git => 'https://github.com/masterCoderLee/XCLogger.git', :tag => "#{spec.version}" }
 
     spec.ios.deployment_target = '12.0'
-    spec.osx.deployment_target = '10.13'
-    spec.watchos.deployment_target = '4.0'
-    spec.tvos.deployment_target = '12.0'
 
     spec.default_subspecs = 'Core'
 
